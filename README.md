@@ -18,6 +18,6 @@ alt="linkedin" width="50" height="50" border="10" /></a>          <a href="https
 ####
 ####
 
-<p>Conhecimentos / Experiências</p>
+<p>Conhecimentos / Experiências:</p>
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt= "telegram" width="100" height="100" border="10" />          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt= "wordpress" width="100" height="100" border="10" />               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original-wordmark.svg" alt= "inkscape" width="100" height="100" border="10" />                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-plain-wordmark.svg" alt= "gimp" width="100" height="100" border="10" />                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-plain-wordmark.svg" alt= "google" width="100" height="100" border="10" />                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain-wordmark.svg" alt= "firefox" width="100" height="100" border="10" />
