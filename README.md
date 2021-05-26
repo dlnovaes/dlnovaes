@@ -6,6 +6,7 @@ alt="linkedin" width="50" height="50" border="10" /></a>
 
 <a href="https://t.me/diegonovaes" target="_blank"><img src="https://github.com/dlnovaes/aprendendohtml/blob/main/img/telegram.png?raw=true" alt= "telegram" width="50" height="50" border="10" /></a>
 ##
-![alt text](https://raw.githubusercontent.com/dlnovaes/aprendendohtml/f70e37a289edf027a0bea165b2c34e84ec8bfc66/img/BlueChart.svg "Logo")
+<img src="https://raw.githubusercontent.com/dlnovaes/aprendendohtml/f70e37a289edf027a0bea165b2c34e84ec8bfc66/img/BlueChart.svg" 
+alt="linkedin" width="1000" height="800" border="10" /></a>
 
 
